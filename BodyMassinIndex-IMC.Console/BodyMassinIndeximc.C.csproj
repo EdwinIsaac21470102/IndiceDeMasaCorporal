@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BodyMassIndex.Models" Version="1.0.0" />
+    <ProjectReference Include="..\BodyMassIndex.Models\BodyMassIndex.models.csproj" />
   </ItemGroup>
 
 </Project>
